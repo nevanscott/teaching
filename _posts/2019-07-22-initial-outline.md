@@ -15,4 +15,4 @@ In this version, you'll find an outline + notes for the following chapters:
 - How to figure out what they really need to learn
 - How to prepare before class starts
 
-[⬇️ Download v{{ page.version }}](https://github.com/nevanscott/teaching/blob/{{ page.version }}/teacher-training.epub)
+[⬇️ Download v{{ page.version }}](https://github.com/nevanscott/teaching/raw/{{ page.version }}/teacher-training.epub)
