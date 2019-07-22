@@ -19,13 +19,11 @@ In this version, you'll find an outline + notes for the following chapters:
 
 ----
 
-# Teacher Training
-
-# How to plan a module/unit
+## How to plan a module/unit
 
 Using the materials you already have, work backwards from your learning goals to define a successful learning experience over the course of a unit.
 
-## Outline
+### Outline
 
 1. Review materials
 2. List out all topics covered
@@ -39,11 +37,11 @@ Using the materials you already have, work backwards from your learning goals to
 
 Adapted from _Understanding by Design_
 
-# How to plan a successful lesson
+## How to plan a successful lesson
 
 Plan backwards from your learning objectives to create an active learning environment which allows you to check progress in stages as you conduct class.
 
-## Outline
+### Outline
 
 1. Review materials, existing plan, and learning objectives
 2. Rewrite learning objectives
@@ -55,9 +53,9 @@ Plan backwards from your learning objectives to create an active learning enviro
 8. Give the lesson a catchy name
 9. Write a 1-2 sentence overview of the lesson
 
-# How to leave at 6 every day with peace of mind
+## How to leave at 6 every day with peace of mind
 
-## Ideas
+### Ideas
 
 - set up rituals and routines
 - treat your time, your TAs’ time and your students’ time as resources
@@ -71,11 +69,11 @@ Plan backwards from your learning objectives to create an active learning enviro
 - check email/Slack on a fixed schedule
 - prepare a weekly calendar before class starts before even thinking about content, with slots for content later
 
-# How to tell whether they learned what they’re supposed to
+## How to tell whether they learned what they’re supposed to
 
 Check for understanding early and often in class to gauge progress. Plan with some flexibility so you can adapt on the fly depending on whether you’ve achieved the learning goals.
 
-## Outline
+### Outline
 
 - Plan for a check for understanding roughly every 15 minutes.
 - The goal is to see if _everyone_ understood something before moving forward with the lesson.
@@ -104,7 +102,7 @@ Check for understanding early and often in class to gauge progress. Plan with so
 	- Finally, go to the third student.
 	- “Gabi—Do you agree more with Alex or Daniela?” _or_ “Gabi—Do you agree with Alex and Daniela?” “Why is that?” “Is there anything else you would add or clarify?”
 
-# How to not get bored
+## How to not get bored
 
 Ideas
 
@@ -124,7 +122,7 @@ Ideas
 	- **Optimization**: Spend a cohort refining and making adjustments based on what you learned from your Architectural changes. Otherwise, keep things the same.
 	- Then it’s back to Process!
 
-# How to figure out what they really need to learn
+## How to figure out what they really need to learn
 
 - Feedback loops with Outcomes / Career Services
 	- Help them understand how students are progressing, try with a few different touch-points throughout the course
@@ -144,13 +142,13 @@ Ideas
 - Finally, use your own professional judgement
 	- We all have our biases, but we’re hired here as professionals from our fields of practice and expertise. Based on your experience, if you think your students are being underserved in a particular area, try it out! If you think you and your learners are spending too much time worrying about something that isn’t all that important or that they’ll be unlikely to use, cut it down or cut it out!
 
-# How to plan a successful activity
+## How to plan a successful activity
 
-# How to prepare before class starts
+## How to prepare before class starts
 
 Start with what you know, review any goals you have for this class in particular, put blockers for things that shouldn’t move, add in rituals and routines, schedule the big things, and finally layer in lessons, labs, and activities.
 
-## Outline
+### Outline
 
 - Review all projects, lessons, labs, and other activities
 - Hold a goal-setting session with your team (TAs, PM, etc.)
@@ -180,19 +178,19 @@ Start with what you know, review any goals you have for this class in particular
 - I recommend doing this with post-its in-person if at all possible. Digitize as needed once you’ve got everything outlined: schedule calendar events, make Trello boards, LMS setup, etc.
 - If the learning platform isn’t the best “source of truth” for your class, no need to abandon it. Treat it like a textbook and provide links to the relevant lessons from your own plan, for example, a Google Site, master Trello, Github markdown files, Airtable, Notion… whatever works for your team and your students.
 
-# How to support learners at different levels
+## How to support learners at different levels
 
-# How to give learners feedback that really works
+## How to give learners feedback that really works
 
-# How to help a teacher improve over time
+## How to help a teacher improve over time
 
-# How to prepare a new teacher for their first class without breaking a sweat
+## How to prepare a new teacher for their first class without breaking a sweat
 
-# How to evaluate a teaching candidate
+## How to evaluate a teaching candidate
 
-# Lesson ideas
+## Lesson ideas
 
-## For teachers and coaches
+### For teachers and coaches
 
 - How to plan a module/unit
 - How to plan a successful lesson
@@ -205,13 +203,13 @@ Start with what you know, review any goals you have for this class in particular
 - How to support learners at different levels
 - How to give learners feedback that really works
 
-## For managers
+### For managers
 
 - How to help a teacher improve over time
 - How to prepare a new teacher for their first class without breaking a sweat
 - How to evaluate a teaching candidate
 
-# Topics brainstorm
+## Topics brainstorm
 
 - checking for understanding
 - ask ask ask
