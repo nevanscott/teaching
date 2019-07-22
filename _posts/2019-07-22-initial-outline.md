@@ -1,5 +1,5 @@
 ---
-title: Initial Outline
+title: 📝 Initial Outline
 version: 0.0.1
 ---
 
