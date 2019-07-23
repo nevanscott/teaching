@@ -1,5 +1,5 @@
 ---
-title: Differentiation, activities, and notes
+title: 📝 Differentiation, activities, and notes
 version: 0.0.2
 ---
 
